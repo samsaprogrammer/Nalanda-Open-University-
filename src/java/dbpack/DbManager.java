@@ -23,7 +23,7 @@ public class DbManager {
         try{
             Class.forName("com.mysql.jdbc.Driver");
             
-            con=DriverManager.getConnection("jdbc:mysql://localhost:3306/oesdb?characterEncoding=utf-8","root","");
+            con=DriverManager.getConnection("jdbc:mysql://containers-us-west-151.railway.app:7868/railway?characterEncoding=utf-8","root","Pv0ilbwhHAYRucxFql7M");
         }
         
         catch(ClassNotFoundException e1){
