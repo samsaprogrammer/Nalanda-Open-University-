@@ -8,7 +8,7 @@ The NOU Online Examination System is a Learning Management System (LMS) along wi
 
 ## 😊Authors
 
- [Samsa Programmer](https://www.github.com/samsa-programmer)
+ [Samsa Programmer](https://www.github.com/samsaprogrammer)
 
 
 ## Features
