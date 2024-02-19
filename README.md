@@ -48,7 +48,7 @@ If you have any feedback, please reach out to us at samsa.programmer@gmail.com
 
 🧠 I'm currently learning Java
 
-📫  To reach me Linkdin
+📫  To reach me Linkedin
 
 
 ## 🛠 SOFTWARE REQUIREMENTS FOR DEVELOPMENT
